@@ -1,3 +1,5 @@
+import os
+
 from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -10,12 +12,18 @@ from app.middleware.auth import get_current_user
 app = FastAPI(title="ReqPilot AI API")
 
 
+
+frontend_origin = os.getenv(
+    "FRONTEND_ORIGIN",
+    "https://reqpilot-frontend.vercel.app"
+)
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
         "http://127.0.0.1:5173",
-        settings.frontend_origin,
+        frontend_origin,
     ],
     allow_credentials=True,
     allow_methods=["*"],
