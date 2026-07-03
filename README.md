@@ -8,12 +8,6 @@
 [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql)](https://www.postgresql.org/)
 [![Groq](https://img.shields.io/badge/AI-Groq-000000)](https://groq.com/)
 
-## Live Demo
-
-* Frontend: `Coming soon`
-* Backend API: `Coming soon`
-* API Documentation: `Coming soon/docs`
-
 ---
 
 ## Overview
@@ -472,16 +466,20 @@ Example screenshot section:
 ```md
 ## Dashboard
 
-![ReqPilot Dashboard](./screenshots/dashboard.png)
+<img width="959" height="476" alt="dash1" src="https://github.com/user-attachments/assets/08a9cb7a-2574-44b4-aa85-58b660eac86e" />
+<img width="959" height="474" alt="dash2" src="https://github.com/user-attachments/assets/86873148-94e6-4219-a7b6-b11493d38496" />
+
 
 ## AI Requirement Analysis
+<img width="959" height="475" alt="Req1" src="https://github.com/user-attachments/assets/3da6133b-6a79-45eb-b855-f446576049d5" />
+<img width="959" height="473" alt="req2" src="https://github.com/user-attachments/assets/002e48ef-ce5c-40ab-86ab-3655d57514ba" />
+<img width="958" height="473" alt="req3" src="https://github.com/user-attachments/assets/9e1d91c1-1b06-4b79-b2b5-c08973bfdc27" />
+<img width="959" height="476" alt="req4" src="https://github.com/user-attachments/assets/8dd752a7-c235-4e46-851e-e26b43aa10d4" />
 
-![AI Requirement Analysis](./screenshots/ai-analysis.png)
 
 ## Requirement Assistant
 
-![Requirement Assistant](./screenshots/requirement-chat.png)
-```
+<img width="959" height="475" alt="ai1" src="https://github.com/user-attachments/assets/4c423fc5-5f5d-4784-b5c1-953f628a1a06" />
 
 ---
 
@@ -534,23 +532,9 @@ uploads/
 
 ---
 
-## Resume Description
-
-**ReqPilot AI — AI-Powered Requirement Engineering Platform**
-
-Built a full-stack requirement engineering platform using React, TypeScript, FastAPI, PostgreSQL, Supabase, and Groq AI. Implemented AI-powered requirement analysis, quality scoring, gap detection, rewriting, acceptance criteria generation, user-story generation, risk analysis, document extraction, version history, traceability, requirement comparison, PDF export, and an AI chat assistant.
-
----
-
 ## Author
 
 **Ratnali Pawar**
 
-* GitHub: `Add GitHub profile link`
-* LinkedIn: `Add LinkedIn profile link`
-
----
-
-## License
-
-This project is created for educational and portfolio purposes.
+* GitHub: `[Ratnali A. P.](https://github.com/Ratsp)`
+* LinkedIn: `[Ratnali Anil Pawar](https://www.linkedin.com/in/ratnali-anil-pawar-803904235/)`
