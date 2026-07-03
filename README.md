@@ -465,21 +465,19 @@ Example screenshot section:
 
 ```md
 ## Dashboard
-
-<img width="959" height="476" alt="dash1" src="https://github.com/user-attachments/assets/08a9cb7a-2574-44b4-aa85-58b660eac86e" />
-<img width="959" height="474" alt="dash2" src="https://github.com/user-attachments/assets/86873148-94e6-4219-a7b6-b11493d38496" />
+<img width="959" height="476" alt="dash1" src="https://github.com/user-attachments/assets/085bed10-66ef-4fbb-b538-3146d9e44969" />
+<img width="959" height="474" alt="dash2" src="https://github.com/user-attachments/assets/a3b980a4-1849-43f3-a990-b7f841af4254" />
 
 
 ## AI Requirement Analysis
-<img width="959" height="475" alt="Req1" src="https://github.com/user-attachments/assets/3da6133b-6a79-45eb-b855-f446576049d5" />
-<img width="959" height="473" alt="req2" src="https://github.com/user-attachments/assets/002e48ef-ce5c-40ab-86ab-3655d57514ba" />
-<img width="958" height="473" alt="req3" src="https://github.com/user-attachments/assets/9e1d91c1-1b06-4b79-b2b5-c08973bfdc27" />
-<img width="959" height="476" alt="req4" src="https://github.com/user-attachments/assets/8dd752a7-c235-4e46-851e-e26b43aa10d4" />
-
+<img width="959" height="475" alt="Req1" src="https://github.com/user-attachments/assets/7c9d90b0-a46d-46d6-9b30-854bf1195593" />
+<img width="959" height="473" alt="req2" src="https://github.com/user-attachments/assets/abc5e90a-7aab-46ab-b8c7-4fa2df614f1e" />
+<img width="958" height="473" alt="req3" src="https://github.com/user-attachments/assets/5582457d-ec4d-4232-a7ae-6ad706221ea2" />
+<img width="959" height="476" alt="req4" src="https://github.com/user-attachments/assets/e7c04adf-a740-4d36-a83d-2dda67856f79" />
 
 ## Requirement Assistant
+<img width="959" height="475" alt="ai1" src="https://github.com/user-attachments/assets/20bb489b-1d54-47c8-8c6e-92de667f975b" />
 
-<img width="959" height="475" alt="ai1" src="https://github.com/user-attachments/assets/4c423fc5-5f5d-4784-b5c1-953f628a1a06" />
 
 ---
 
